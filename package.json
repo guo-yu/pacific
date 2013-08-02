@@ -1,0 +1,15 @@
+{
+  "name": "pacific",
+  "version": "0.0.0",
+  "description": "pacific rim",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pacific",
+    "rim"
+  ],
+  "author": "turing",
+  "license": "MIT"
+}
